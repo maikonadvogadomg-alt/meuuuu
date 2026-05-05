@@ -1,2 +1,2 @@
-# meuuuu
-Criado pelo APK Builder · GitHub: maikonadvogadomg-alt/devmobile-ide@main
+# devmobile-ide
+DevMobile IDE — IDE no Celular
